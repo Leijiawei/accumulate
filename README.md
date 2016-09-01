@@ -1,3 +1,6 @@
 # accumulate
 分享各种编程相关的学习资料
-<a href="http://www.baidu.com">baidu</a>
+<style>
+div{width:100px;height:200px;background:red;}
+</style>
+<body><div></div></body>
