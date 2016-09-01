@@ -44,7 +44,7 @@
 <h1>WEB</h1>
 <ul>
 	<li><a href="http://www.w3cfuns.com/" target="_blank">前端网</a></br>里面包括html、css以及js各种资料，还有各大互联网公司的面试题</li>
-	<li><a href="http://www.jobbole.com/ target="_blank">伯乐在线</a></br>里面同样包含了html、css、js等各种学习资料，及其推荐</li>
+	<li><a href="http://www.jobbole.com" target="_blank">伯乐在线</a></br>里面同样包含了html、css、js等各种学习资料，及其推荐</li>
 	<li><a href="http://www.zhangxinxu.com/" target="_blank">张鑫旭博客</a></br>张哥的博客里面介绍的内容让人受益匪浅，值得自己去实验</li>
 	<li><a href="http://www.runoob.com/" target="_blank">菜鸟教程</a></br>主要包含的是web前端的各方面内容</li>
 </ul>
