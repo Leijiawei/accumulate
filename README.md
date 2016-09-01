@@ -43,10 +43,10 @@
 <div id="web">
 <h1>WEB</h1>
 <ul>
-	<li><a href="http://www.w3cfuns.com/">前端网</a></br>里面包括html、css以及js各种资料，还有各大互联网公司的面试题</li>
-	<li><a href="http://www.jobbole.com/">伯乐在线</a></br>里面同样包含了html、css、js等各种学习资料，及其推荐</li>
-	<li><a href="http://www.zhangxinxu.com/">张鑫旭博客</a></br>张哥的博客里面介绍的内容让人受益匪浅，值得自己去实验</li>
-	<li><a href="http://www.runoob.com/">菜鸟教程</a></br>主要包含的是web前端的各方面内容</li>
+	<li><a href="http://www.w3cfuns.com/" target="_blank">前端网</a></br>里面包括html、css以及js各种资料，还有各大互联网公司的面试题</li>
+	<li><a href="http://www.jobbole.com/ target="_blank">伯乐在线</a></br>里面同样包含了html、css、js等各种学习资料，及其推荐</li>
+	<li><a href="http://www.zhangxinxu.com/" target="_blank">张鑫旭博客</a></br>张哥的博客里面介绍的内容让人受益匪浅，值得自己去实验</li>
+	<li><a href="http://www.runoob.com/" target="_blank">菜鸟教程</a></br>主要包含的是web前端的各方面内容</li>
 </ul>
 </div>
 <div id="html">
@@ -69,7 +69,7 @@
 <div id="js">
 <h1>JS</h1>
 <ul>
-	<li><a href="http://www.cnblogs.com/aaronjs/p/3279314.html">jQuery源码的分析</a></br>JS基础不错的同学们，如果有兴趣可以看看大神对jQuery源码的分析，很不错</li>
+	<li><a href="http://www.cnblogs.com/aaronjs/p/3279314.html" target="_blank">jQuery源码的分析</a></br>JS基础不错的同学们，如果有兴趣可以看看大神对jQuery源码的分析，很不错</li>
 	<li><a href="">JS待更新</a></li>
 	<li><a href="">JS待更新</a></li>
 	<li><a href="">JS待更新</a></li>
@@ -86,8 +86,8 @@
 <div>
 <h1>看到最后的小分享</h1>
 <ul>
-	<li><a href="https://tinypng.com">压缩图片</a></br>这是一个压缩图片的站点，非常好用，推荐！</li>
-	<li><a href="http://stackoverflow.com/">stackoverflow</a></br>一个在线问答网站，在闲暇的时候可以冲冲浪</li>
+	<li><a href="https://tinypng.com" target="_blank">压缩图片</a></br>这是一个压缩图片的站点，非常好用，推荐！</li>
+	<li><a href="http://stackoverflow.com/" target="_blank">stackoverflow</a></br>一个在线问答网站，在闲暇的时候可以冲冲浪</li>
 	<li><a href="">一些书籍的电子版，待我上传到云盘在更新...</a></li>
 </ul>
 </div>
